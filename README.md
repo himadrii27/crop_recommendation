@@ -1,1 +1,1 @@
-# crop_recommendation
+Developed a predictive model using machine learning techniques to recommend suitable crops based on environmental factors such as nitrogen (N), phosphorus (P), potassium (K) levels, temperature, humidity, pH, and rainfall.Utilized a Random Forest Classifier algorithm, achieving a high accuracy of 99.3%, to predict the optimal crop for a given set of environmental parameters, aiding farmers in making informed planting decisions and maximizing agricultural yield.
